@@ -9,8 +9,8 @@ The program works by assigning a score and corresponding degree of profanity to 
 
 |    Score     |Degree of Profanity|
 |--------------|-------------------|
-|  0           | None              |
-| 0 - 0.019    | Profane           |
+|  0.0           | None              |
+| 0.0 - 0.019    | Profane           |
 | 0.019 - 0.045 | Highly Profane    |
 | 0.045 & above | Extremely Profane |
 <br>
