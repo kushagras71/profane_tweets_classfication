@@ -19,7 +19,7 @@ for j in tweets['sampleTweets']:
 
 
 #Cacluting the degree of profanity
-# degree pf profanity = no. of racial slurs found in the tweet / word count of the tweet
+# degree pf profanity = no. of racial slurs found in the tweet /s word count of the tweet
 for i in profane_tweets:
     score = (i[1]/len(i[0]))
     if score == 0.0:
@@ -30,4 +30,5 @@ for i in profane_tweets:
         degree_of_profanity = 'Highly Profane'
     else:
         degree_of_profanity = 'Exteremely Profane'
-    print(i[0],": \n Score of profanity: ",score,"\n","Degree of Profanity: ",degree_of_profanity)
+    print("Tweet:",i[0],": \n Score of profanity: ",score,"\n","Degree of Profanity: ",degree_of_profanity)
+    print("\n\n")
