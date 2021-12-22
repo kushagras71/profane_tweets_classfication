@@ -1,9 +1,10 @@
 ## Profane Tweet Detection
-##### Assigning a degree of profanity to Twitter tweets.
-<br/>
-Racial Slurs and profane tweets are becoming a serious problem these days on Twitter. The poeple doing these social media activities usually uses some sentences and words that trigger other poeple belong different communities those leading differences and eveuntally fights. During the COVID 19 pandemic this increased by many foldes.
-<hr>
+### Assigning a degree of profanity to Twitter tweets.
 
-###
+<b>Introduction</b><br>
+Racial Slurs and profane tweets are becoming a serious problem these days on Twitter. The poeple doing these social media activities usually uses some sentences and words that trigger other poeple belong different communities those leading differences and eveuntally fights. During the COVID 19 pandemic this increased by many folds. In this repository, I have a uploaded a simple Python program which can be used to classify or assign a degree of profanity to the tweets on Twitter which can be used to regularize and filter the tweets that go out in the public.
+<hr>
+<b>Logic of the prorgam</b><br>
+The program works by assigning a score and corresponding degree of profanity to a tweet depending on the number of profane words (racial slurs) the tweet has. The score calculated by dividing the numer of profane words in the tweet by the total number of words in the tweet.
 
 
