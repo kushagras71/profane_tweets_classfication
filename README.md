@@ -10,7 +10,7 @@ The program works by assigning a score and corresponding degree of profanity to 
 |    Score     |Degree of Profanity|
 |--------------|-------------------|
 |  0.0           | Not Proframe              |
-| 0.0 - 0.019    | Sligthy Profane           |
+| 0.0 - 0.019    | Slighty Profane           |
 | 0.019 - 0.045 | Highly Profane    |
 | 0.045 & above | Extremely Profane |
 <br>
