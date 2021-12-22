@@ -1,4 +1,4 @@
-# profane_tweets_classfication
-Assigning a degree of profanity to Twitter tweets.
-==
+Profane Tweet Detection
+## Assigning a degree of profanity to Twitter tweets.
+=========
 
